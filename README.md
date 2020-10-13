@@ -1,5 +1,5 @@
 
-> 🚨 **WARNING:** Devtron is currently **unmaintained**. If you're interested in becoming a maintainer, see Issue [#200](https://github.com/electron-userland/devtron/issues/200) for more information.
+> 🚨 **WARNING:** 原项目[Devtron](https://github.com/electron-userland/devtron)已经没有人维护了，本项目只是为了提供Devtron在最新Electron中可以继续使用的一种解决方案。
 # <img src="https://cloud.githubusercontent.com/assets/378023/15063285/cf554e40-1383-11e6-9b9c-45d381b03f9f.png" width="60px" align="center" alt="Devtron icon"> Devtron
 
 An [Electron](http://electron.atom.io) [DevTools](https://developer.chrome.com/devtools)
